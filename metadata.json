@@ -1,0 +1,7 @@
+{
+  "name": "HAPPY BIRTH DAY CATTY",
+  "description": "A magical, interactive birthday experience for Harish G featuring cats, chocolate, and wizardry.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
